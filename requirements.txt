@@ -1,5 +1,6 @@
-Flask==3.0.0
-flask-cors==4.0.0
-numpy==1.24.3
-Werkzeug==3.0.1
-
+--upgrade pip
+setuptools>=65
+wheel
+Flask
+Flask-Cors
+gunicorn
