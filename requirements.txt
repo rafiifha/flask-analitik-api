@@ -4,3 +4,4 @@ wheel
 Flask
 Flask-Cors
 gunicorn
+numpy
