@@ -1,7 +1,5 @@
-pip
-setuptools>=65
-wheel
-Flask
-Flask-Cors
-gunicorn
-numpy
+Flask==3.0.0
+flask-cors==4.0.0
+mysql-connector-python==8.2.0
+python-dotenv==1.0.0
+gunicorn==21.2.0
